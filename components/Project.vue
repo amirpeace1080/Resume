@@ -144,14 +144,14 @@
                 <div class="card-custom-avatar">
                   <img
                     class="img-fluid"
-                    src="https://res.cloudinary.com/dcl67luxn/image/upload/v1543875011/2.png"
+                    src="https://bulma.io/images/placeholders/128x128.png"
                     alt="Avatar"
                   />
                 </div>
               </a>
               <div class="card-body" style="overflow-y: auto">
-                <h4 class="card-title">تک صفحه ای کردن قالب</h4>
-                <p class="card-text">
+                <h4 class="card-title text-right">تک صفحه ای کردن قالب</h4>
+                <p class="card-text text-right">
                   تک صفحه ای کردن یه قالب آماده ، اولین پروژه ای هست که با ویو انجام دادم
                 </p>
               </div>

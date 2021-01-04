@@ -24,17 +24,21 @@
 
     <Project />
 
+    <Contact />
+
     <Footer />
   </div>
 </template>
 
 <script>
 import Project from '@/components/Project'
+import Contact from '@/components/Contact'
 import Footer from '@/components/Footer'
 
 export default {
   components: {
     Project,
+    Contact,
     Footer,
   },
 }

@@ -16,4 +16,9 @@ export default {
 </script>
 
 <style>
+html,
+body{
+  font-family: 'Vazir', sans-serif;
+
+}
 </style>
