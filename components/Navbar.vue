@@ -42,6 +42,7 @@
         <b-navbar-nav>
           <b-nav-item href="#">خانه</b-nav-item>
           <b-nav-item href="#about">درباره من</b-nav-item>
+          <b-nav-item href="#skill">مهارت ها</b-nav-item>
           <b-nav-item href="#projects">پروژه ها</b-nav-item>
           <b-nav-item href="#contact">ارتباط</b-nav-item>
         </b-navbar-nav>

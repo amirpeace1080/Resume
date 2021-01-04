@@ -22,6 +22,8 @@
       </div>
     </div>
 
+    <Skill />
+
     <Project />
 
     <Contact />
@@ -31,12 +33,14 @@
 </template>
 
 <script>
+import Skill from '@/components/Skill'
 import Project from '@/components/Project'
 import Contact from '@/components/Contact'
 import Footer from '@/components/Footer'
 
 export default {
   components: {
+    Skill,
     Project,
     Contact,
     Footer,
