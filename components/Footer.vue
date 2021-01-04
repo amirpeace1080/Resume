@@ -1,21 +1,18 @@
 <template>
   <div>
-      <footer class="footer">
+    <footer class="footer">
       <div class="container text-center">
-        <span class="footer-text"
-          >Copyright ©saurabhkanswal 2019 | All Rights Reserved</span
-        >
+        <span class="footer-text">
+          ساخته شده توسط<a href="https://github.com/amirpeace1080">محمد شریفی</a>
+          سورس کد وبسایت<a href="https://github.com/amirpeace1080/Resume">Github</a>
+        </span>
       </div>
     </footer>
   </div>
 </template>
 
 <script>
-export default {
-
-}
+export default {}
 </script>
 
-<style>
-
-</style>
+<style></style>
