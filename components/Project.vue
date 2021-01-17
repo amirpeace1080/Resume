@@ -5,6 +5,38 @@
         <h1 class="text-center aboutHeading">پروژه ها</h1>
         <div class="row pt-5 m-auto" id="projectCards">
 
+
+          <div class="col-md-6 col-lg-4 pb-3">
+            <div class="card card-custom bg-white border-white border-0">
+              <!--Enter Project Logo/Favicon here-->
+              <div class="card-custom-img" id="portfolio"></div>
+              <a href="#">
+                <div class="card-custom-avatar">
+                  <img
+                    class="img-fluid"
+                    src="https://bulma.io/images/placeholders/128x128.png"
+                    alt="Avatar"
+                  />
+                </div>
+              </a>
+              <div class="card-body" style="overflow-y: auto">
+                <h4 class="card-title text-right">مای شاپ</h4>
+                <p class="card-text text-right">
+                  ساخته شده با ناکست جی اس و بولما، ای پی ای رو تو نت پیدا کردم با نودجی اس هست
+                </p>
+              </div>
+              <div
+                class="card-footer"
+                style="background: inherit; border-color: inherit"
+              >
+                <a href="http://practice.gigfa.com" class="btn btn-info">بازدید</a>
+                <a href="https://github.com/amirpeace1080/store" type="button" class="btn btn-outline-primary">
+                  سورس کد
+                </a>
+              </div>
+            </div>
+          </div>
+
           <div class="col-md-6 col-lg-4 pb-3">
             <div class="card card-custom bg-white border-white border-0">
               <!--Enter Project Logo/Favicon here-->
