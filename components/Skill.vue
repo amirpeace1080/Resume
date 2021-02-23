@@ -134,7 +134,7 @@ h1 {
   position: relative;
 
   &::after {
-    content: '90%';
+    // content: '90%';
     position: absolute;
     right: -50px;
   }
@@ -145,7 +145,7 @@ h1 {
   position: relative;
 
   &::after {
-    content: '90%';
+    // content: '90%';
     position: absolute;
     right: -50px;
   }
@@ -156,7 +156,7 @@ h1 {
   position: relative;
 
   &::after {
-    content: '85%';
+  //   content: '85%';
     position: absolute;
     right: -50px;
   }
@@ -168,7 +168,7 @@ h1 {
   position: relative;
 
   &::after {
-    content: '85%';
+    // content: '85%';
     position: absolute;
     right: -50px;
   }
@@ -180,7 +180,7 @@ h1 {
   position: relative;
 
   &::after {
-    content: '85%';
+    // content: '85%';
     position: absolute;
     right: -50px;
   }
@@ -192,7 +192,7 @@ h1 {
   position: relative;
 
   &::after {
-    content: '80%';
+    // content: '80%';
     position: absolute;
     right: -50px;
   }
@@ -204,7 +204,7 @@ h1 {
   position: relative;
 
   &::after {
-    content: '80%';
+    // content: '80%';
     position: absolute;
     right: -50px;
   }
@@ -215,7 +215,7 @@ h1 {
   position: relative;
 
   &::after {
-    content: '80%';
+    // content: '80%';
     position: absolute;
     right: -50px;
   }
@@ -227,7 +227,7 @@ h1 {
   position: relative;
 
   &::after {
-    content: '80%';
+    // content: '80%';
     position: absolute;
     right: -50px;
   }
@@ -239,7 +239,7 @@ h1 {
   position: relative;
 
   &::after {
-    content: '70%';
+    // content: '70%';
     position: absolute;
     right: -50px;
   }
@@ -251,7 +251,7 @@ h1 {
   position: relative;
 
   &::after {
-    content: '65%';
+    // content: '65%';
     position: absolute;
     right: -50px;
   }
@@ -263,7 +263,7 @@ h1 {
   position: relative;
 
   &::after {
-    content: '65%';
+    // content: '65%';
     position: absolute;
     right: -50px;
   }
