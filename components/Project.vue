@@ -30,9 +30,43 @@
                 style="background: inherit; border-color: inherit"
               >
                 <a href="http://practice.gigfa.com" class="btn btn-info">بازدید</a>
-                <a href="https://github.com/amirpeace1080/store" type="button" class="btn btn-outline-primary">
+                <a href="https://github.com/amirpeace1080/store" type="button" target="_blank" class="btn btn-outline-primary">
                   سورس کد
                 </a>
+              </div>
+            </div>
+          </div>
+
+           <div class="col-md-6 col-lg-4 pb-3">
+            <div class="card card-custom bg-white border-white border-0">
+              <!--Enter Project Logo/Favicon here-->
+              <div class="card-custom-img" id="project1"></div>
+              <a href="#" target="_blank" class="grow text-right">
+                <div class="card-custom-avatar">
+                  <img
+                    class="img-fluid"
+                    src="https://bulma.io/images/placeholders/128x128.png"
+                    alt="Avatar"
+                  />
+                </div>
+              </a>
+              <div class="card-body" style="overflow-y: auto">
+                <h4 class="card-title text-right">مدرسه انلاین</h4>
+                <p class="card-text text-right">
+                  این پروژه با ناکست جی است و ویوتیفای ساخته شده, حدودا یک ماه طول کشید ساختنش, بیشتر برام تمرین ویوتیفای بوده این پروژه
+                </p>
+              </div>
+              <div
+                class="card-footer"
+                style="background: inherit; border-color: inherit"
+              >
+                <a
+                  href="http://peace1080.ir"
+                  class="btn btn-info"
+                  target="_blank"
+                  >بازدید</a
+                >
+                <a href="https://github.com/amirpeace1080/school" class="btn btn-outline-primary" target="_blank">سورس کد</a>
               </div>
             </div>
           </div>
@@ -66,7 +100,7 @@
                   target="_blank"
                   >بازدید</a
                 >
-                <a href="https://github.com/amirpeace1080/nuxt-hame-chi-amoz" class="btn btn-outline-primary">سورس کد</a>
+                <a href="https://github.com/amirpeace1080/nuxt-hame-chi-amoz" target="_blank" class="btn btn-outline-primary">سورس کد</a>
               </div>
             </div>
           </div>
@@ -96,7 +130,7 @@
                 style="background: inherit; border-color: inherit"
               >
                 <a href="http://limusic.gigfa.com" class="btn btn-info">بازدید</a>
-                <a href="https://github.com/amirpeace1080/limusic" type="button" class="btn btn-outline-primary">
+                <a href="https://github.com/amirpeace1080/limusic" type="button" target="_blank" class="btn btn-outline-primary">
                   سورس کد
                 </a>
               </div>
@@ -128,7 +162,7 @@
                 style="background: inherit; border-color: inherit"
               >
                 <a href="http://learnoverflow.gigfa.com" class="btn btn-info">بازدید</a>
-                <a href="https://gitlab.com/amirpeace1080/stack" type="button" class="btn btn-outline-primary">
+                <a href="https://gitlab.com/amirpeace1080/stack" type="button" target="_blank" class="btn btn-outline-primary">
                   سورس کد
                 </a>
               </div>
@@ -160,7 +194,7 @@
                 style="background: inherit; border-color: inherit"
               >
                 <a target="_blank" href="http://paneladmin.gigfa.com/?i=1#/" class="btn btn-info">بازدید</a>
-                <a href="https://gitlab.com/amirpeace1080/paneladmin" type="button" class="btn btn-outline-primary">
+                <a href="https://gitlab.com/amirpeace1080/paneladmin" type="button" target="_blank" class="btn btn-outline-primary">
                   سورس کد
                 </a>
               </div>
